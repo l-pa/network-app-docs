@@ -3,7 +3,7 @@ id: skupiny
 title: Skupiny
 ---
 
-Pro barvu se používá barva první hrany ve skupině.
+Pro barvu se používá barva prvního vrcholu ve skupině.
 
 ## Show groups area
 
