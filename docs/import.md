@@ -9,7 +9,7 @@ Importovat je možné následující soubory
 
 Používá [sigma.parsers.json.min.js](https://github.com/l-pa/network-app/blob/master/public/libs/plugins/sigma.parsers.json.min.js).
 
-Obsahuje nastavení, které bylo nastaveno při exportu.
+Může obsahovat část nastavení, které bylo nastaveno při exportu.
 
 | Vrchol        | Popis           |
 | ------------- |:-------------:|

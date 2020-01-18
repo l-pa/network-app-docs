@@ -14,7 +14,7 @@ Exportuje celý graf, včetně nastavení.
 ## GEXF
 Využívá upravený [sigma.exporters.svg.min.js](https://github.com/l-pa/network-app/blob/master/public/libs/plugins/sigma.exporters.svg.min.js).
 
-Export do GEXF.
+Export grafu do GEXF.
 
 ## PNG
 

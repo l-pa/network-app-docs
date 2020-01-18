@@ -23,6 +23,8 @@ Místo přitažlivé síly, jako vzdálenost mezi body je použita následujíc�
 
 ### Gravitace
 
+Síla přitahující vrcholy ke středu.
+
 Zabraňuje odpojování, odlétávaní komponent grafu.
 
 <!-- ![Formula](https://journals.plos.org/plosone/article/file?type=thumbnail&id=info:doi/10.1371/journal.pone.0098679.e033) -->

@@ -3,6 +3,8 @@ id: nastaveni
 title: Nastaveni
 ---
 
+Nastavení grafu, pravý panel.
+
 # Select nodes
 
 [sigma.plugins.lasso.js](https://github.com/s0md3v/Quark/tree/master/libs/plugins/sigma.plugins.lasso)
@@ -14,6 +16,14 @@ Vytvoří novou vrstvu, na které lze vymezit plochu, ze které se vyberou body 
 [Export](export.md)
 
 ## Node
+
+### Detail
+
+Po kliknutí na vrchol, lze změnit nastavení vrcholu
+
+- Nazev
+- Barva
+- Velikost
 
 ### Node type
 
