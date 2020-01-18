@@ -1,0 +1,9 @@
+{
+  "docs": {
+    "Network App": ["obecne"],
+    "Soubory": ["import", "export"],
+    "Aplikace": ["nastaveni", "skupiny"],
+    "Layouty": ["forceatlas2"],
+    "Komunity": ["louvain"]
+  }
+}
