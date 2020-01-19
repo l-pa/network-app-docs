@@ -19,7 +19,7 @@ Toto zobrazení nelze exportovat.
 
 Umožňuje odstranit všechny skupiny.
 
-Po odstranění se všem vrcholům nastaví černá barva.
+Po odstranění se všem vrcholům nastaví bílá barva.
 
 [Gift wrapping algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm)
 

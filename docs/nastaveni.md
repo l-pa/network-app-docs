@@ -100,6 +100,19 @@ Barva popisu.
 
 Pokud není specifikována barva hrany ve vstupním souboru, lze jí změnit.
 
+### Edge size
+
+Velikost hrany
+
+#### Default
+
+Výchozí velikost, podle velikosti uvedené s souboru.
+
+#### sizeAsNode
+
+Velikost hrany je stejná jako velikost zdrojového vrcholu hrany.
+
+
 ### Edga shape
 
 Tvar hrany.
