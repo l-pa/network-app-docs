@@ -3,9 +3,9 @@ id: circle
 title: Circle
 ---
 
-## Algoritmus
-
 Body jsou rozmístěny rovnoměrně na kružnici.
+
+## Algoritmus
 
 ```js
                     const slice = 2 * Math.PI / itemsLength

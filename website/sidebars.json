@@ -3,7 +3,7 @@
     "Network App": ["obecne"],
     "Soubory": ["import", "export"],
     "Aplikace": ["nastaveni", "skupiny"],
-    "Layouty": ["forceatlas2", "random", "fruchter", "circle", "noverlap"],
+    "Layouty": ["forceatlas2", "random", "fruchter", "circle", "noverlap", "rotate"],
     "Komunity": ["louvain"]
   }
 }
