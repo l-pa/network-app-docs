@@ -14,7 +14,7 @@ Webová aplikace pro vizualizaci malých sítí, s přibližně tisíci vrcholy.
 
 ![import](https://i.imgur.com/3jAK9Wg.png)
 
-## UML
+## UML zjednoduseny
 
 ![uml](https://i.imgur.com/JA3dRtG.png)
 
