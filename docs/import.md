@@ -16,14 +16,14 @@ Může obsahovat část nastavení, které bylo nastaveno při exportu.
 | label      | popis |
 | x      | pozice x      |
 | y | pozice y      |
-| attributes | TODO      |
+| attributes | Specificke nastaveni vrcholu - TODO      |
 | color | barva      |
 | size | velikost      |
 | id | id      |
 
 | Hrana        | Popis           |
 | ------------- |:-------------:|
-| attributes      | TODO |
+| attributes      | Specificke nastaveni hrany - TODO  |
 | color      | barva      |
 | size | velikost      |
 | id | id      |
